@@ -4,9 +4,9 @@ Simple.
 
 No really, this thing's like 20kb... 
 
-Elements is a 'living checklist' of common HTML elements for every project.
+Elements is a 'living checklist' of common HTML elements for every project that hooks into your exiting CSS file(s).
 
-The vision I have for elements is to remain simplistic as well. A few projects I had seen while searching for something to scratch this itch seemed to all evlove into some sort of full blown front-end framework.
+The vision I have for elements is to remain simplistic. The projects I had seen scratching this itch seemed to always evlove into some sort of full blown front-end framework.
 
 Elements is about coding it right the first time, and building pages quick without worring about unstyled elements you overlooked. 
 

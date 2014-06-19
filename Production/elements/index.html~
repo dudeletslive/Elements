@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <!--YOUR WEBSITES MAIN STYLESHEET-->
+        <link rel="stylesheet" href="#">
+    </head>
+    <body class="elements-body">
+
+<style>
+.elements-body {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #999999;
+}
+.elements-body::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+.heading {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+  color: black;
+}
+.subhead {
+  color: black;
+  padding: 0;
+  margin: 0;
+}
+.element-section {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+  background-color: gray;
+  padding: 2em;
+  margin: 1.5em 0 1.5em 0;
+}
+</style>
+
+<h1 class="heading">Typography</h1>
+
+<div class="element-section">
+<h3 class="subhead">Headings</h3>
+<h1>H1</h1>
+<h2>H2</h2>
+<h3>H3</h3>
+<h4>H4</h4>
+<h5>H5</h5>
+<h6>H6</h6>
+</div>
+
+<div class="element-section">
+<h3 class="subhead">Links</h3>
+<br>
+<a href="#">Primary Link!</a>
+</div>
+
+<div class="element-section">
+<h3 class="subhead">Body Text</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat ex inventore adipisci dolore, voluptatum ratione quam tenetur voluptatem, accusamus dicta ullam quae voluptas minima, rem fuga labore, ipsa sunt hic assumenda eaque accusantium recusandae natus amet quis! Commodi corporis, ut alias voluptas sed, sunt doloribus molestiae, necessitatibus laboriosam eligendi veniam odit incidunt perspiciatis animi velit vel sit error a delectus corrupti eaque cum optio. Molestias laboriosam, explicabo. Omnis corporis sed accusantium suscipit laudantium a voluptates magni, mollitia perferendis adipisci voluptatibus atque, ut sunt rerum iusto inventore dolorum cumque quis, accusamus hic laborum optio dolorem? Minima iusto esse consequuntur dolorem laborum!</p>
+</div>
+
+<div class="element-section">
+<h3 class="subhead">Blockqoute</h3>
+<blockquote> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem repellat, impedit, a cupiditate repudiandae corporis minus tempore ullam odio consectetur vitae accusantium maxime beatae ea, sunt consequuntur! Officia iste quia alias, quis voluptatibus magni quae optio ullam dicta ea iusto eveniet omnis earum aliquam quaerat aperiam ipsam aspernatur soluta, quas ab quisquam nulla laudantium. Consequatur tempora quo in ea, optio, aspernatur voluptatibus perspiciatis et officiis. Esse vero a non est, ratione temporibus neque praesentium voluptatibus rem cum libero minus dolores amet aliquid blanditiis dicta fuga odio nisi, provident quod. Error voluptatibus animi, suscipit nemo id exercitationem voluptatum ad itaque rerum?</blockquote>
+</div>
+
+<div class="element-section">
+<h3 class="subhead">Address</h3><br>
+<address>
+<a href="../personal.html" lang="fi" hreflang="en">Jukka Korpela</a>,
+<a href="mailto:jkorpela@cs.tut.fi">jkorpela@cs.tut.fi</A><br>
+Päivänsäteenkuja 4 A, Espoo, Finland
+</address>
+</div>
+
+<div class="element-section">
+<h3 class="subhead">Code Styles</h2>
+<br>
+  <code>This is sample text inside code markup</code><br>
+  <kbd>This is sample text inside kbd markup</kbd><br>
+  <samp>This is sample text inside samp markup</samp><br>
+   <tt>This is sample text inside tt markup</tt><br>
+</div>
+
+<h1 class="heading">Lists</h1>
+<div class="element-section">
+<br>
+<h4 class="subhead"> Unordered List</h4>
+<ul>
+  <li> One
+  <li> Two
+  <li> Three 
+  <li> Four 
+</ul>
+
+<h4 class="subhead"> Menu List</h4>
+<menu>
+  <li> One
+  <li> Two
+  <li> Three
+</menu>
+
+<h4 class="subhead"> Ordered List</h4>
+<ol>
+  <li> One
+  <li> Two
+  <li> Three
+  <li> Four
+</ol>
+</div>
+
+<h1 class="heading">Forms</h1>
+
+<div class="element-section">
+<br>
+<form action="#">
+<h4 class="subhead">Buttons</h4>
+<br>
+<button type="submit" name="foo">I'm a button!</button><br>
+<br>
+<h4 class="subhead">Reset Button</h4>
+<br>
+<input id="f0" type="reset" name="reset" value="Reset"><br>
+<br>
+<h3 class="subhead">Submit Button</h3>
+<br>
+<input id="f99" type="submit" name="submit" value="Just a test"><br>
+<br>
+<h4 class="subhead">Form Field</h4>
+<br>
+<input id="f1" name="text" size="20" value="Form Field"><br>
+<br>
+<h4 class="subhead">Text Area</h4>
+<br>
+<textarea id="f2" name="textarea" rows="2" cols="20">
+Text Area
+</textarea><br>
+<br>
+
+<h3 class="subhead">Radio Buttons and Check Boxes</h3><br>
+<input id="f3" type="radio" name="radio" value="1"><br>
+<input id="f4" type="radio" name="radio" value="2" checked><br> 
+<input id="f5" type="checkbox" name="checkbox"><br> 
+<input id="f6" type="checkbox" name="checkbox2" checked><br>
+<br>
+
+<h3 class="subhead">Dropdown</h3>
+<br>
+<select id="f10" name="select1" size="1">
+<option>one
+<option selected>two
+<option>three
+</select><br>
+<br>
+
+<h3 class="subhead">Selection Box</h3><br>
+<select id="f11" name="select2" size="3">
+<option>one
+<option selected>two
+<option>three
+</select><br>
+<br>
+
+</form>
+</div>
+
+
+<h1 class="heading">Tables</h1>
+
+<div class="element-section">
+<br>
+<TABLE>
+<CAPTION>Lorem ipsum dolor sit amet, consectetur.</CAPTION>
+<TR><TH scope="col">Lorem ipsum dolor.</TH> <TH scope="col">Lorem</TH> <TH scope="col">Lorem</TH>
+<TR><TH scope="row">Lorem ipsum dolor.</TH> <TD ALIGN=RIGHT>42</TD><TD ALIGN=RIGHT>42</TR>
+<TR><TH scope="row">Lorem ipsum dolor.</TH> <TD ALIGN=RIGHT>42</TD><TD ALIGN=RIGHT>42</TR>
+<TR><TH scope="row">Lorem ipsum dolor.</TH> <TD ALIGN=RIGHT>42</TD><TD ALIGN=RIGHT>42</TR>
+<TR><TH scope="row">Lorem ipsum dolor.</TH>  <TD ALIGN=RIGHT>42</TD><TD ALIGN=RIGHT>42</TR>
+<TR><TH scope="row">Lorem ipsum dolor.</TH>  <TD ALIGN=RIGHT>42</TD><TD ALIGN=RIGHT>42</TR>
+</TABLE>
+</div>
+
+</body>
+</html>

@@ -10,10 +10,10 @@ $susy: (
 @import 'compass';
 @import 'susy';
 
-$primary: #999;
+$primary: teal;
 $secondary: lighten($primary, 20%);
 $darker: darken($primary, 10%);
-$heading: darken($primary, 60%);
+$heading: white;
 
 // ELEMENTS LAYOUT//
 .elements-body {

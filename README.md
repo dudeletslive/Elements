@@ -6,6 +6,10 @@ No really, this thing's like 20kb...
 
 Elements is a 'living checklist' of common HTML elements for every project.
 
+The vision I have for elements is to remain simplistic as well. A few projects I had seen while searching for something to scratch this itch seemed to all evlove into some sort of full blown front-end framework.
+
+Elements is about coding it right the first time, and building pages quick without worring about unstyled elements you overlooked. 
+
 To get a better idea, you can checkout the [Live Demo](http://jamesabels.github.io/Elements)
 
 #What Elements is not. 
@@ -18,7 +22,7 @@ While it was inspired by both, I think of Elements as more of a checklist for ma
 
 I wanted to make this as simple as possible though there is still some setup. 
 
-If you just want to use Elements as is, you can ditch the sass foler, though it is great for customization. Also this trhing is built on susy and 100% ready for you to drop your own sections and *elements* in, and nest grids until your heart is content. 
+If you just want to use Elements as is, you can ditch the sass foler, though it is great for customization. Also Elements is built on [Susy.](http://susy.oddbird.net/) and 100% ready for you to drop your own  *elements* in, and nest grids until your heart is content. 
 
 #Shut up! Show me how to use it!
 

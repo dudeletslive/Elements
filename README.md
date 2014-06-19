@@ -6,7 +6,7 @@ No really, this thing's like 20kb...
 
 Elements is a 'living checklist' of common HTML elements for every project that hooks into your exiting CSS file(s).
 
-The vision I have for elements is to remain simplistic. The projects I had seen scratching this itch seemed to always evlove into some sort of full blown front-end framework.
+The vision I have for elements is to remain simplistic. The projects I have seen scratching this itch seem to always evlove into a full blown front-end framework.
 
 Elements is about coding it right the first time, and building pages quick without worring about unstyled elements you overlooked. 
 

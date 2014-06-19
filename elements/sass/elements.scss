@@ -1,0 +1,41 @@
+// SUSY OPTIONS //
+$susy: (
+  columns: 12,  // The number of columns in your grid
+  gutters: 1/4, // The size of a gutter in relation to a single column
+  math: fluid,
+  gutter-position: inside,
+);
+
+
+@import 'compass';
+@import 'susy';
+
+$primary: teal;
+$secondary: lighten($primary, 20%);
+$darker: darken($primary, 10%);
+$heading: white;
+
+// ELEMENTS LAYOUT//
+.elements-body {
+    @include container(80%);
+    background-color: $primary;
+}
+
+.heading {
+    @include span(12);
+    color: $heading;
+}
+
+.subhead {
+    color: $heading;
+    padding: 0;
+    margin: 0;
+}
+
+
+.element-section {
+    @include span(12);
+    background-color: $darker;
+    padding: 2em;
+    margin: 1.5em 0 1.5em 0;
+}

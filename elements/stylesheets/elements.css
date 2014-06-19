@@ -1,0 +1,46 @@
+/* line 19, ../sass/elements.scss */
+.elements-body {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: teal;
+}
+/* line 12, ../../../../../../var/lib/gems/1.9.1/gems/susy-2.0.0.rc.2/sass/susy/output/support/_clearfix.scss */
+.elements-body::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 24, ../sass/elements.scss */
+.heading {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+  color: white;
+}
+
+/* line 29, ../sass/elements.scss */
+.subhead {
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 36, ../sass/elements.scss */
+.element-section {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+  background-color: #004d4d;
+  padding: 2em;
+  margin: 1.5em 0 1.5em 0;
+}

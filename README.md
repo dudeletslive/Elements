@@ -2,7 +2,7 @@
 
 Simple. 
 
-No really, this thing's like 4kb... 
+No really, this thing's like 20kb... 
 
 Elements is a simple HTML file that displays common HTML elements in your project. 
 
@@ -14,16 +14,17 @@ While it was inspired by both, I think of Elements as more of a checklist for ma
 
 #How to Elements? 
 
-I wanted to make this as simple as possible. Though if you are downloading Elements from Github, please note that you do not need the source folder if you simply want to use it.  
+I wanted to make this as simple as possible though there is still some setup. 
+
+If you just want to use Elements as is, you can ditch the sass foler, though it is great for fast customization.   
 
 #Shut up! Lets just use it!
 
-1. Open the zipped file. 
-2. Navigate to the Production folder.  
-3. Place the elements folder into the root of your project.
-4. Open the index.html file in your favorite text editor and link up your site's main css file(s). 
-5. Visit your site's /elements directory *for example mysite.com/elements*
-6. Profit. 
+1. Open the zipped file.   
+2. Place the elements folder into the root of your project.
+3. Open the index.html file in your favorite text editor and link up your site's main css file(s). 
+4. Visit your site's /elements directory *for example mysite.com/elements*
+5. Profit. 
 
 #Make it better! 
 

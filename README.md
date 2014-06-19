@@ -4,7 +4,7 @@ Simple.
 
 No really, this thing's like 20kb... 
 
-Elements is a 'living checklist' of common HTML elements for every project that hooks into your exiting CSS file(s).
+Elements is a 'living checklist' of common HTML elements for every project, that hooks into your exiting CSS file(s).
 
 The vision I have for elements is to remain simplistic. The projects I have seen scratching this itch seem to always evlove into a full blown front-end framework.
 

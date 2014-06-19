@@ -18,6 +18,8 @@ A style guide or pattern library.
 
 While it was inspired by both, I think of Elements as more of a checklist for making sure the basic HTML *elements* in your project have been styled. 
 
+The truth is not every project is full time, and not every front-end dev is working on a team. Elements is expansive, quck and easy. It will never be a style-guide but it could become a quick and easy half-step for projects where a style-guide just isn't practical. 
+
 #How to Elements? 
 
 I wanted to make this as simple as possible though there is still some setup. 

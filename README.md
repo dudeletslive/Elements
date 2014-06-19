@@ -4,7 +4,9 @@ Simple.
 
 No really, this thing's like 20kb... 
 
-Elements is a simple HTML file that displays common HTML elements in your project. 
+Elements is a simple HTML file that displays common HTML elements in your project.
+
+You checkout the  [Live Demo](http://jamesabels.github.io/Elements)
 
 #What Elements is not. 
 

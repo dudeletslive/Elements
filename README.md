@@ -4,9 +4,9 @@ Simple.
 
 No really, this thing's like 20kb... 
 
-Elements is a simple HTML file that displays common HTML elements in your project.
+Elements is a 'living checklist' of common HTML elements for every project.
 
-You checkout the  [Live Demo](http://jamesabels.github.io/Elements)
+To get a better idea, you can checkout the [Live Demo](http://jamesabels.github.io/Elements)
 
 #What Elements is not. 
 
@@ -18,9 +18,9 @@ While it was inspired by both, I think of Elements as more of a checklist for ma
 
 I wanted to make this as simple as possible though there is still some setup. 
 
-If you just want to use Elements as is, you can ditch the sass foler, though it is great for fast customization.   
+If you just want to use Elements as is, you can ditch the sass foler, though it is great for customization. Also this trhing is built on susy and 100% ready for you to drop your own sections and *elements* in, and nest grids until your heart is content. 
 
-#Shut up! Lets just use it!
+#Shut up! Show me how to use it!
 
 1. Open the zipped file.   
 2. Place the elements folder into the root of your project.
